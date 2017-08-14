@@ -1,0 +1,22 @@
+{
+  "name": "browser-async-listener",
+  "version": "1.0.0",
+  "description": "simple browser async-listener",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlisliu/browser-async-listener.git"
+  },
+  "keywords": [
+    "async-listener"
+  ],
+  "author": "Carlis Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlisliu/browser-async-listener/issues"
+  },
+  "homepage": "https://github.com/carlisliu/browser-async-listener#readme"
+}
